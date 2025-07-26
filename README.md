@@ -199,4 +199,4 @@ After running the full pipeline, you’ll get:
 ##  License
 
 This project is licensed under the **MIT License** — feel free to use, modify, and distribute!
-# signlang-vision-transformer # Creates a README file
+
